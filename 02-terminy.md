@@ -34,6 +34,7 @@
   4. Počet dlaždic ve směru os x a y
 
   ![TileMatrix](images/tile-matrix-representation.png)
+
   Definice matice dlaždic pro konkrétní měřítko podle 
   [OGC WMTS](https://ogc.org/standards/wmts)
 
@@ -44,6 +45,7 @@
   matic se sestává z několika dlaždicových matic.
 
   ![TileMatrixSet](images/tile-matrix-set-representation.png)
+
   Definice sady matic dlaždic podle
   [OGC WMTS](https://ogc.org/standards/wmts)
 

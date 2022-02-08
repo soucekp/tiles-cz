@@ -9,7 +9,7 @@ Pro správné fungování dlaždicových služeb je třeba předem ustanovit
 
 ### Souřadnicový systém Web Mercator EPSG:3857
 
-Jedná se o globální souřadnicový systém a v současnosti se jedná o de-facato
+Jedná se o globální souřadnicový systém a v současnosti se jedná o de-facto
 technologický standard pro publikaci mapových děl v prostředí WWW. Jeho podoba
 byla původně kodifikována firmou Google a převzata konsorciem OGC.
 
